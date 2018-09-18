@@ -1,3 +1,3 @@
-# ucts_g1/n
-NEM Mosaic Demo\n
-Fork from NEMPay https://github.com/dgarcia360/NEMPay
+# ucts_g1
+# NEM Mosaic Demo
+# Fork from NEMPay https://github.com/dgarcia360/NEMPay
